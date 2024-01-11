@@ -1,0 +1,407 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "A269CD2D-CE2D-4445-898B-0C2F5B20DEDA"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2A4E05A9-3B7E-4453-9A3F-3C867F493650"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "InfiniteListTest/ApiFetchHandler.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "fetchData(offset:searchText:complition:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "ECBC6B6A-706E-45AA-82DD-4AF4F992F7C7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "InfiniteListTest/ApiFetchHandler.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "fetchData(offset:searchText:complition:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "21F6D35F-476B-428B-8D72-DF10A6E56CA6"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "InfiniteListTest/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "161"
+            endingLineNumber = "161"
+            landmarkName = "collectionView(_:willDisplay:forItemAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DA30729B-EBAA-4418-A02A-FAEF00D0F54D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "InfiniteListTest/Presenters/MainPresenter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "40"
+            endingLineNumber = "40"
+            landmarkName = "getDrugs()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "DA30729B-EBAA-4418-A02A-FAEF00D0F54D - e5456cbeed5b1d4b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in InfiniteListTest.MainPresenter.getDrugs() -&gt; ()"
+                  moduleName = "InfiniteListTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/egorrybin/Desktop/projects/InfiniteListTest/InfiniteListTest/Presenters/MainPresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "50"
+                  endingLineNumber = "50"
+                  offsetFromSymbolStart = "448">
+               </Location>
+               <Location
+                  uuid = "DA30729B-EBAA-4418-A02A-FAEF00D0F54D - e68545c0a5112285"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "InfiniteListTest.MainPresenter.getDrugs() -&gt; ()"
+                  moduleName = "InfiniteListTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/egorrybin/Desktop/projects/InfiniteListTest/InfiniteListTest/Presenters/MainPresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "50"
+                  endingLineNumber = "50"
+                  offsetFromSymbolStart = "448">
+               </Location>
+               <Location
+                  uuid = "DA30729B-EBAA-4418-A02A-FAEF00D0F54D - a32244c7c08fa373"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Array&lt;InfiniteListTest.DrugsModel&gt;) -&gt; () in closure #1 @Swift.MainActor () -&gt; () in InfiniteListTest.MainPresenter.getDrugs() -&gt; ()"
+                  moduleName = "InfiniteListTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/egorrybin/Desktop/projects/InfiniteListTest/InfiniteListTest/Presenters/MainPresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "49"
+                  endingLineNumber = "49"
+                  offsetFromSymbolStart = "1164">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AB297BD4-46A3-4BA0-A19E-34747A8DDA8F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "InfiniteListTest/Services/ApiFetchHandler.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "fetchData(offset:searchText:complition:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A8ED6229-3106-4B56-8D64-0ED342369F85"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "InfiniteListTest/Presenters/MainPresenter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "57"
+            endingLineNumber = "57"
+            landmarkName = "loadMoreDrugsForSearch(searchText:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A8ED6229-3106-4B56-8D64-0ED342369F85 - 55756fda31884f64"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "InfiniteListTest.MainPresenter.loadMoreDrugsForSearch(searchText: Swift.String) -&gt; ()"
+                  moduleName = "InfiniteListTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/egorrybin/Desktop/projects/InfiniteListTest/InfiniteListTest/Presenters/MainPresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "86"
+                  endingLineNumber = "86"
+                  offsetFromSymbolStart = "56">
+               </Location>
+               <Location
+                  uuid = "A8ED6229-3106-4B56-8D64-0ED342369F85 - 328b09a1e28de32d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Array&lt;InfiniteListTest.DrugsModel&gt;) -&gt; () in InfiniteListTest.MainPresenter.loadMoreDrugsForSearch(searchText: Swift.String) -&gt; ()"
+                  moduleName = "InfiniteListTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/egorrybin/Desktop/projects/InfiniteListTest/InfiniteListTest/Presenters/MainPresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "87"
+                  endingLineNumber = "87"
+                  offsetFromSymbolStart = "168">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C28934FF-1233-4ADD-B493-F45F4FC4FE6B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "InfiniteListTest/Presenters/MainPresenter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "46"
+            endingLineNumber = "46"
+            landmarkName = "loadMoreDrugs()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C28934FF-1233-4ADD-B493-F45F4FC4FE6B - 9934b3ce963d5442"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "InfiniteListTest.MainPresenter.loadMoreDrugs() -&gt; ()"
+                  moduleName = "InfiniteListTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/egorrybin/Desktop/projects/InfiniteListTest/InfiniteListTest/Presenters/MainPresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "75"
+                  endingLineNumber = "75"
+                  offsetFromSymbolStart = "32">
+               </Location>
+               <Location
+                  uuid = "C28934FF-1233-4ADD-B493-F45F4FC4FE6B - 860a342307266ab"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Array&lt;InfiniteListTest.DrugsModel&gt;) -&gt; () in InfiniteListTest.MainPresenter.loadMoreDrugs() -&gt; ()"
+                  moduleName = "InfiniteListTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/egorrybin/Desktop/projects/InfiniteListTest/InfiniteListTest/Presenters/MainPresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "76"
+                  endingLineNumber = "76"
+                  offsetFromSymbolStart = "168">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D69F5670-896D-44C8-9D9E-B1921A16459A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "InfiniteListTest/Presenters/MainPresenter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "51"
+            endingLineNumber = "51"
+            landmarkName = "loadMoreDrugs()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "D69F5670-896D-44C8-9D9E-B1921A16459A - 3da0f1513a9247e4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #1 (Swift.Array&lt;InfiniteListTest.DrugsModel&gt;) -&gt; () in InfiniteListTest.MainPresenter.loadMoreDrugs() -&gt; ()"
+                  moduleName = "InfiniteListTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/egorrybin/Desktop/projects/InfiniteListTest/InfiniteListTest/Presenters/MainPresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "80"
+                  endingLineNumber = "80"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "D69F5670-896D-44C8-9D9E-B1921A16459A - 3da0f1513a9247e4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #1 (Swift.Array&lt;InfiniteListTest.DrugsModel&gt;) -&gt; () in InfiniteListTest.MainPresenter.loadMoreDrugs() -&gt; ()"
+                  moduleName = "InfiniteListTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/egorrybin/Desktop/projects/InfiniteListTest/InfiniteListTest/Presenters/MainPresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "80"
+                  endingLineNumber = "80"
+                  offsetFromSymbolStart = "52">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0246C45A-F6CA-419B-8CB6-5178B010E444"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "InfiniteListTest/Views/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "120"
+            endingLineNumber = "120"
+            landmarkName = "collectionView(_:willDisplay:forItemAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "76416E17-476F-4B33-B514-8A329A3D7577"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "InfiniteListTest/Views/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "114"
+            endingLineNumber = "114"
+            landmarkName = "collectionView(_:willDisplay:forItemAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D7F3A494-F0CE-4B13-879F-3E58F216FAEE"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "InfiniteListTest/Views/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "75"
+            endingLineNumber = "75"
+            landmarkName = "collectionView(_:cellForItemAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "53C865EC-302E-403D-867C-88ED2209AA99"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "InfiniteListTest/Views/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "refreshCollectionView(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "53C865EC-302E-403D-867C-88ED2209AA99 - 8f8f6532a1e0a0f4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Array&lt;InfiniteListTest.DrugsModel&gt;) -&gt; () in InfiniteListTest.ViewController.refreshCollectionView(Any) -&gt; ()"
+                  moduleName = "InfiniteListTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/egorrybin/Desktop/projects/InfiniteListTest/InfiniteListTest/Views/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "3392">
+               </Location>
+               <Location
+                  uuid = "53C865EC-302E-403D-867C-88ED2209AA99 - 8f8f6532a1e0a0f4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Array&lt;InfiniteListTest.DrugsModel&gt;) -&gt; () in InfiniteListTest.ViewController.refreshCollectionView(Any) -&gt; ()"
+                  moduleName = "InfiniteListTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/egorrybin/Desktop/projects/InfiniteListTest/InfiniteListTest/Views/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "3424">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1584B71E-A7D4-40C5-A1F4-0B0EF2AD4B47"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "InfiniteListTest/Views/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "refreshCollectionView(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5CDA5BB5-0F48-4483-95D4-0FB5B50EDC0D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "InfiniteListTest/Views/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "64"
+            endingLineNumber = "64"
+            landmarkName = "searchBarCancelButtonClicked(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
